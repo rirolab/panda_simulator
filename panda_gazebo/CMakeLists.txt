@@ -16,6 +16,7 @@ find_package(catkin
     kdl_parser
     tf_conversions
     orocos_kdl
+    #liborocos-kdl
     panda_sim_controllers
     panda_sim_custom_action_server
 )

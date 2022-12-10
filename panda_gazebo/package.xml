@@ -33,8 +33,9 @@
   <build_depend>kdl_parser</build_depend>
   <build_depend>tf_conversions</build_depend>
   <build_depend>roslint</build_depend>
-  <build_depend>liborocos-kdl-dev</build_depend>
-  <build_depend>liborocos-kdl</build_depend>
+  <build_depend>orocos_kdl</build_depend>
+  <!-- <build_depend>liborocos-kdl-dev</build_depend> -->
+  <!-- <build_depend>liborocos-kdl</build_depend> -->
   <build_depend>panda_hardware_interface</build_depend>
   <build_depend>panda_sim_controllers</build_depend>
   <build_depend>panda_sim_custom_action_server</build_depend>
@@ -57,8 +58,9 @@
   <run_depend>panda_sim_controllers</run_depend>
   <run_depend>panda_sim_custom_action_server</run_depend>
   <run_depend>image_proc</run_depend>
-  <run_depend>liborocos-kdl-dev</run_depend>
-  <run_depend>liborocos-kdl</run_depend>
+  <run_depend>orocos_kdl</run_depend>
+  <!-- <run_depend>liborocos-kdl-dev</run_depend> -->
+  <!-- <run_depend>liborocos-kdl</run_depend> -->
   <run_depend>nodelet</run_depend>
 
 
